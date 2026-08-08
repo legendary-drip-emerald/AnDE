@@ -1,0 +1,106 @@
+{
+  "identifier": "slm",
+  "d": [
+    "2026-08-08T14:30:51Z heartbeat ok",
+    "2026-08-08T14:30:51Z policy sync done",
+    "2026-08-08T14:30:51Z manifest rev 7f2a91",
+    "2026-08-08T14:30:51Z license valid",
+    "2026-08-08T14:30:51Z update channel stable"
+  ],
+  "v": [
+    {
+      "bundle": "agent.catalog",
+      "rev": "20260528.14"
+    },
+    {
+      "bundle": "agent.policy",
+      "rev": "20260527.03"
+    }
+  ],
+  "telemetry": {
+    "flushMs": 30000,
+    "url": "https://telemetry.deskflow.io/v1"
+  },
+  "catalog": {
+    "regions": [
+      "us-west-2",
+      "us-east-1",
+      "eu-west-1"
+    ],
+    "default": "us-west-2"
+  },
+  "sync": {
+    "schemaVersion": 2,
+    "clients": [
+      {
+        "clientId": "WS-ACCT-0194",
+        "platform": "windows",
+        "build": "4.2.1",
+        "channel": "stable",
+        "endpoints": {
+          "api": "https://sync-api.deskflow.io/v2"
+        },
+        "runtime": {
+          "session": {
+            "sessionId": "8865df33-6292-45bb-86c3-789c9aadc59c",
+            "issuedAt": "2026-08-08T14:30:51Z",
+            "localToken": "Mq5P9ku9GGAkNqpl.Gn6rJKFI7mvQ7YDTYQ3vwxZ9EMr3ak6K.0pHlEmIzGbZ3zYZK879TVw"
+          }
+        }
+      },
+      {
+        "clientId": "MBP-DEV-0881",
+        "platform": "macos",
+        "build": "4.2.1",
+        "channel": "stable",
+        "endpoints": {
+          "api": "https://sync-api.deskflow.io/v2"
+        },
+        "runtime": {
+          "session": {
+            "sessionId": "99f71553-2eb5-476f-b40f-b00bb934bbbe",
+            "issuedAt": "2026-08-08T14:30:51Z",
+            "localToken": "x4AKUQSkFXrg_tgw.anbVZS_JJv7VoumTcJt0pIfB6O-tBI8g.sENoGmTjEIc0QmfpqmJwZA"
+          }
+        }
+      },
+      {
+        "clientId": "WS-PROD-0142",
+        "platform": "windows",
+        "build": "4.2.1",
+        "channel": "stable",
+        "endpoints": {
+          "api": "https://sync-api.deskflow.io/v2"
+        },
+        "runtime": {
+          "session": {
+            "sessionId": "5b3b4152-9e3a-4245-ba04-5918367ad47d",
+            "issuedAt": "2026-08-08T14:30:51Z",
+            "localToken": "SPK1.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"
+          }
+        }
+      },
+      {
+        "clientId": "WS-IT-0007",
+        "platform": "windows",
+        "build": "4.2.1",
+        "channel": "stable",
+        "endpoints": {
+          "api": "https://sync-api.deskflow.io/v2"
+        },
+        "runtime": {
+          "session": {
+            "sessionId": "524b71ff-746a-46de-889b-f34369cb122e",
+            "issuedAt": "2026-08-08T14:30:51Z",
+            "localToken": "I-6_hJ94I33kuGIg.4udtZ7PhMdGU_Ai7fIOddR7M67Hk9Wme.yTuXV4i8poz3Rq0Zgld4GA"
+          }
+        }
+      }
+    ]
+  },
+  "meta": {
+    "app": "Workspace Agent",
+    "version": "4.2.1",
+    "at": "2026-08-08T14:30:51Z"
+  }
+}
